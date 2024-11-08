@@ -3,6 +3,7 @@ Here's an overview of the Java program for a basic calculator:
 
 *Program Overview*
 
+![image](https://github.com/user-attachments/assets/44957901-8ce3-49a1-99a7-a3ca1758b4ba)
 
 
 *Title:* Basic Calculator
